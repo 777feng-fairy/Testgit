@@ -3,8 +3,6 @@
 emmm
 你好
 不好
-<<<<<<< Updated upstream
 哼
-=======
 o
->>>>>>> Stashed changes
+嘿嘿
